@@ -54,3 +54,21 @@ a {
     margin-right: auto;
     text-align: center;
 }
+
+.homebut {
+    background-color: #432818;
+    margin: 0px auto;
+    display: block;
+    padding: 10px 20px;
+}
+
+.homelink {
+    color: #FFE6A7;
+    font-size: larger;
+}
+
+/*
+Color Codes
+#6F1D1B #BB9457 #432818 #99582A #FFE6A7
+
+*/
